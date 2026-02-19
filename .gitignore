@@ -1,19 +1,4 @@
-# Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
-*.pyo
-
-# Virtual environment
-venv/
+myenv/
 .env
-
-# VS Code settings
-.vscode/
-
-# Logs
-*.log
-
-# Streamlit cache
-.streamlit/
-
-
+constants.py

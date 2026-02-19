@@ -1,7 +1,3 @@
-langchain_core
-langchain_openai
-streamlit
 openai
-python-dotenv
-langchain_community
-sse_starlette
+langchain 
+streamlit
